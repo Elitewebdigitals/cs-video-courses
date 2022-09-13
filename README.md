@@ -938,6 +938,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
   - [Master Solidity - Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g)
   - [IPFS Inter Planetary File System  Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgWggD3tKfgwsIPXuIhorXZk)
   - [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial - FreeCodingCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
+  - [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course - FreeCodingCamp](https://youtu.be/gyMwXuJrbJQ)
   - [Web 3.0 - Build Realtime Decentralized applications](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVV6ah1fo2IvlHk1kTCy6un)
 
 ------------------------------
